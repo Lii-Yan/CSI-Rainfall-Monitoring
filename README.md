@@ -17,11 +17,13 @@ This work presents:
 
 Due to the large size of the dataset, the full dataset is not hosted on GitHub.
 
-Download link will be provided here.
+The publicly available data can be accessed via Zenodo:
 
-## Code
+https://doi.org/10.5281/zenodo.18830280
 
-Training and evaluation scripts will be released.
+The complete dataset consists of four experimental cases (Case 1–Case 4), as described in the paper. 
+
+At the current stage, **Case 1** and **Case 4** are publicly available. The remaining cases (**Case 2** and **Case 3**) will be released upon formal acceptance of the associated paper.
 
 ## License
 
